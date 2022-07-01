@@ -2,7 +2,7 @@
 /**
  * main-entry point
  * description-prints size of variables
- * Return: Always 0 (Success)
+ * Return: Always 0 if exited properly ,non-zero otherwise
  */
 int main(void)
 {
